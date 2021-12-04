@@ -1,4 +1,4 @@
-# Banco_de_dados_para_farmacia
+# Banco de dados para farmácia
 
 Bando de dados para um sistema de controle comercial de farmácia, desenvolvido na disciplica de Banco de Dados do meu curso de Engenharia de Computação.
 
